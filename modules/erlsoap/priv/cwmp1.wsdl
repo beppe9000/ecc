@@ -230,7 +230,7 @@
 <service name="cwmp">
  <documentation>CWMP service definition for CPE and ACS</documentation>
  <port name="cwmp" binding="tns:cwmp">
-  <SOAP:address location="https://acsmobile.net.vodafone.it:7004/cwmpWeb/CPEMgt"/>
+  <SOAP:address location="https://acsmobile.net.vodafone.it:7006/cwmpWeb/CPEMgt"/>
  </port>
 </service>
 
